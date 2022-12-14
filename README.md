@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanosman" alt="pawanosman" /></a> </p>
 
-- 💬 Ask me about **C#, NodeJS**
+- 💬 Ask me about **C#, NodeJS, PHP, Lua**
 
 - 📫 How to reach me **contact@pawan.krd**
 
