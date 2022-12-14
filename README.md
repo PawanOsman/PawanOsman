@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pawan Osman</h1>
+<h1 align="center">Hi 👋, I'm Pawan</h1>
 <h3 align="center">Backend Developer, IT consultant, and Networking Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanosman&label=Profile%20views&color=0e75b6&style=flat" alt="pawanosman" /> </p>
