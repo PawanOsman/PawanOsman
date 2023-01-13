@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pawan</h1>
 <h3 align="center">Backend Developer, IT consultant, and Networking Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanosman&label=Profile%20views&color=0e75b6&style=flat" alt="pawanosman" /> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=pawanosman&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/PawanOsman)
+[![Donate](https://img.shields.io/badge/patreon-donate-blueviolet.svg?color=FF424D&logo=Patreon)](https://patreon.com/pawanosman)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanosman" alt="pawanosman" /></a> </p>
 
