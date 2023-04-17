@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Pawan</h1>
+<img src="https://raw.githubusercontent.com/PawanOsman/PawanOsman/main/greeting.svg" style="width: 100%; height: 65px;" />
+<hr/>
 <h3 align="center">Backend Developer, IT consultant, and Networking Specialist</h3>
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pawanosman&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/PawanOsman)
 [![Donate](https://img.shields.io/badge/patreon-donate-blueviolet.svg?color=FF424D&logo=Patreon)](https://patreon.com/pawanosman)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanosman&theme=discord" alt="pawanosman" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanosman&theme=discord" alt="pawanosman" /></a> </p>
 
 - 💬 Ask me about **C#, NodeJS, PHP, Lua**
 
