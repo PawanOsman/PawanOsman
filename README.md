@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/PawanOsman/PawanOsman/main/greeting.svg" style="width: 100%; height: 65px;" />
+<h1 align="center">Hi👋, I'm Pawan</h1>
 <hr/>
 <h3 align="center">Backend Developer, IT consultant, and Networking Specialist</h3>
 
